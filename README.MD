@@ -1,6 +1,3 @@
-# ML_sleep_apnea_p1-
-Data science project trying to find patterns and reasonings behind sleep apnea symptoms. 
+This data science project aims to uncover patterns and reasons behind sleep apnea symptoms. It involves becoming proficient in Pandas, NumPy, Matplotlib, and Scikit-learn. Furthermore, it delves into understanding syntax and pipeline guidelines for conducting classification and regression predictions using various models.
 
-project to get familiar with Pandas,numpy,matplotlib and scikit learn. Also, geet familiar with syntax and pipeline guidlelines, for perfoming classifcation and regression predictions related to some models.
-
-showcases the practical application of various machine learning models to address specific use cases
+The project showcases the practical application of different machine learning models to address specific use cases.
